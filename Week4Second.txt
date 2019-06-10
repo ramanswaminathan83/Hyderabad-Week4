@@ -1,0 +1,558 @@
+officename,pincode,officeType,Deliverystatus,divisionname,regionname,circlename,Taluk,Districtname,statename,Telephone,Related Suboffice,Related Headoffice,longitude,latitude
+A.Gs Office S.O,500004,S.O,Non-Delivery,Hyderabad City,Hyderabad City,Andhra Pradesh,Khairatabad,Hyderabad,TELANGANA,040-23428311,NA,Hyderabad G.P.O. ,NA,NA
+A.Gs. Staff Quarters S.O,500045,S.O,Non-Delivery,Hyderabad City,Hyderabad City,Andhra Pradesh,Khairatabad,Hyderabad,TELANGANA,040-23428373,NA,Khairatabad H.O,NA,NA
+Anandnagar S.O (Hyderabad),500004,S.O,Non-Delivery,Hyderabad City,Hyderabad City,Andhra Pradesh,Khairatabad,Hyderabad,TELANGANA,040-23428326,NA,Khairatabad H.O,NA,NA
+AP Police Academy PO,500091,S.O,Non-Delivery,Hyderabad City,Hyderabad City,Andhra Pradesh,Rajendra Nagar,Hyderabad,TELANGANA,NA,NA,Hyderabad G.P.O. ,NA,NA
+Appa Himayathsagar B.O,500008,B.O,Delivery,Hyderabad City,Hyderabad City,Andhra Pradesh,Rajendranagar,K.V.Rangareddy,TELANGANA,NA,Golconda S.O,Hyderabad G.P.O. ,NA,NA
+Aziz Nagar B.O,500075,B.O,Delivery,Hyderabad City,Hyderabad City,Andhra Pradesh,Moinabad,K.V.Rangareddy,TELANGANA,NA,C.B.I.T S.O,Hyderabad G.P.O. ,NA,NA
+Banjara Hills S.O,500034,S.O,Delivery,Hyderabad City,Hyderabad City,Andhra Pradesh,Khairatabad,Hyderabad,TELANGANA,040-23428313,NA,Khairatabad H.O,NA,NA
+Bazarghat S.O (Hyderabad),500004,S.O,Non-Delivery,Hyderabad City,Hyderabad City,Andhra Pradesh,Khairatabad,Hyderabad,TELANGANA,040-23428314,NA,Khairatabad H.O,NA,NA
+Bharat Nagar Colony S.O,500018,S.O,Non-Delivery,Hyderabad City,Hyderabad City,Andhra Pradesh,Balanagar,K.V.Rangareddy,TELANGANA,040-23463377,NA,Khairatabad H.O,NA,NA
+Bhaskar Nagar S.O,500075,S.O,Non-Delivery,Hyderabad City,Hyderabad City,Andhra Pradesh,NA,Hyderabad,TELANGANA,NA,NA,Hyderabad G.P.O. ,NA,NA
+C.B.I.T S.O,500075,S.O,Delivery,Hyderabad City,Hyderabad City,Andhra Pradesh,Rajendranagar,Hyderabad,TELANGANA,08413-233780,NA,Hyderabad G.P.O. ,NA,NA
+Central Secretariat S.O,500022,S.O,Delivery,Hyderabad City,Hyderabad City,Andhra Pradesh,Khairatabad,Hyderabad,TELANGANA,040-23428315,NA,Hyderabad G.P.O. ,NA,NA
+CUC S.O,500046,S.O,Delivery,Hyderabad City,Hyderabad City,Andhra Pradesh,Serilingampally,Hyderabad,TELANGANA,040-23463956,NA,Hyderabad G.P.O. ,NA,NA
+Cyberabad S.O,500081,S.O,Delivery,Hyderabad City,Hyderabad City,Andhra Pradesh,Shaikpet,Hyderabad,TELANGANA,040-23428317,NA,Khairatabad H.O,NA,NA
+Dargah Hussain Shahwali B.O,500008,B.O,Non-Delivery,Hyderabad City,Hyderabad City,Andhra Pradesh,Golconda,Hyderabad,TELANGANA,NA,Golconda S.O,Hyderabad G.P.O. ,NA,NA
+Dr.B R Ambedkar O.U  S.O,500033,S.O,Non-Delivery,Hyderabad City,Hyderabad City,Andhra Pradesh,Shaikpet,Hyderabad,TELANGANA,NA,NA,Khairatabad H.O,NA,NA
+Erragadda S.O,500018,S.O,Non-Delivery,Hyderabad City,Hyderabad City,Andhra Pradesh,Ameerpet,Hyderabad,TELANGANA,040-23428368,NA,Khairatabad H.O,NA,NA
+Fathenagar Colony S.O,500018,S.O,Non-Delivery,Hyderabad City,Hyderabad City,Andhra Pradesh,Balanagar,K.V.Rangareddy,TELANGANA,040-23463694,NA,Khairatabad H.O,NA,NA
+Film Nagar S.O,500096,S.O,Delivery,Hyderabad City,Hyderabad City,Andhra Pradesh,Shaikpet,Hyderabad,TELANGANA,040-23428364,NA,Khairatabad H.O,NA,NA
+Gachibowli S.O,500032,S.O,Non-Delivery,Hyderabad City,Hyderabad City,Andhra Pradesh,Seri Lingampally,K.V.Rangareddy,TELANGANA,040-23463959,NA,Hyderabad G.P.O. ,NA,NA
+Gagan Mahal S.O,500029,S.O,Non-Delivery,Hyderabad City,Hyderabad City,Andhra Pradesh,Himayathnagar,Hyderabad,TELANGANA,040-23428318,NA,Hyderabad G.P.O. ,NA,NA
+Gandhi Bhawan S.O (Hyderabad),500001,S.O,Non-Delivery,Hyderabad City,Hyderabad City,Andhra Pradesh,Nampally,Hyderabad,TELANGANA,040-23463511,NA,Hyderabad G.P.O. ,NA,NA
+Gandipet B.O,500075,B.O,Delivery,Hyderabad City,Hyderabad City,Andhra Pradesh,Rajendra Nagar,K.V.Rangareddy,TELANGANA,NA,C.B.I.T S.O,Hyderabad G.P.O. ,NA,NA
+Golconda S.O,500008,S.O,Delivery,Hyderabad City,Hyderabad City,Andhra Pradesh,Golconda ,Hyderabad,TELANGANA,040-23463320,NA,Hyderabad G.P.O. ,NA,NA
+Himayathnagar B.O,500075,B.O,Delivery,Hyderabad City,Hyderabad City,Andhra Pradesh,Moinabad,K.V.Rangareddy,TELANGANA,NA,C.B.I.T S.O,Hyderabad G.P.O. ,NA,NA
+Himayathnagar S.O,500029,S.O,Delivery,Hyderabad City,Hyderabad City,Andhra Pradesh,Himayathnagar,Hyderabad,TELANGANA,040-23428512,NA,Hyderabad G.P.O. ,NA,NA
+Humayunnagar S.O,500028,S.O,Delivery,Hyderabad City,Hyderabad City,Andhra Pradesh,Asifnagar,Hyderabad,TELANGANA,040-23428319,NA,Khairatabad H.O,NA,NA
+Hyder Shah Kote B.O,500008,B.O,Delivery,Hyderabad City,Hyderabad City,Andhra Pradesh,Golconda,Hyderabad,TELANGANA,NA,Golconda S.O,Hyderabad G.P.O. ,NA,NA
+Hydershahkote S.O,500091,S.O,Delivery,Hyderabad City,Hyderabad City,Andhra Pradesh,Golconda,Hyderabad,TELANGANA,NA,NA,Hyderabad G.P.O. ,NA,NA
+I.M.Colony S.O,500082,S.O,Non-Delivery,Hyderabad City,Hyderabad City,Andhra Pradesh,Khairatabad,Hyderabad,TELANGANA,040-23428310,NA,Khairatabad H.O,NA,NA
+Ibrahim Bagh Lines S.O,500031,S.O,Delivery,Hyderabad City,Hyderabad City,Andhra Pradesh,Golconda,Hyderabad,TELANGANA,040-23428309,NA,Hyderabad G.P.O. ,NA,NA
+Janwada B.O,500075,B.O,Delivery,Hyderabad City,Hyderabad City,Andhra Pradesh,Shankarpally,K.V.Rangareddy,TELANGANA,NA,C.B.I.T S.O,Hyderabad G.P.O. ,NA,NA
+Jubilee Hills S.O,500033,S.O,Delivery,Hyderabad City,Hyderabad City,Andhra Pradesh,Shaikpet,Hyderabad,TELANGANA,040-23428300,NA,Khairatabad H.O,NA,NA
+Kakatiya Nagar S.O,500008,S.O,Non-Delivery,Hyderabad City,Hyderabad City,Andhra Pradesh,Golconda,Hyderabad,TELANGANA,040-23428321,NA,Khairatabad H.O,NA,NA
+Karwan Sahu S.O,500006,S.O,Delivery,Hyderabad City,Hyderabad City,Andhra Pradesh,Asifnagar,Hyderabad,TELANGANA,040-23463804,NA,Hyderabad G.P.O. ,NA,NA
+Khairatabad H.O,500004,H.O,Delivery,Hyderabad City,Hyderabad City,Andhra Pradesh,Khairatabad,Hyderabad,TELANGANA,040-23428322,NA,NA,NA,NA
+Kokapet B.O,500075,B.O,Delivery,Hyderabad City,Hyderabad City,Andhra Pradesh,Rajendra Nagar,K.V.Rangareddy,TELANGANA,NA,C.B.I.T S.O,Hyderabad G.P.O. ,NA,NA
+Kondapur B.O,500084,B.O,Non-Delivery,Hyderabad City,Hyderabad City,Andhra Pradesh,Serilingampally,K.V.Rangareddy,TELANGANA,NA,Kothaguda S.O (K.V.Rangareddy),Hyderabad G.P.O. ,NA,NA
+Kothaguda S.O (K.V.Rangareddy),500084,S.O,Delivery,Hyderabad City,Hyderabad City,Andhra Pradesh,Serilingampally,Hyderabad,TELANGANA,040-23428339,NA,Hyderabad G.P.O. ,NA,NA
+Kulsumpura S.O,500006,S.O,Non-Delivery,Hyderabad City,Hyderabad City,Andhra Pradesh,Asifnagar,Hyderabad,TELANGANA,040-24826385,NA,Hyderabad G.P.O. ,NA,NA
+LIC Division S.O,500063,S.O,Delivery,Hyderabad City,Hyderabad City,Andhra Pradesh,Himayathnagar,Hyderabad,TELANGANA,040-23428327,NA,Hyderabad G.P.O. ,NA,NA
+Lingampalli S.O,500019,S.O,Delivery,Hyderabad City,Hyderabad City,Andhra Pradesh,Serilingampally,K.V.Rangareddy,TELANGANA,040-23463957,NA,Hyderabad G.P.O. ,NA,NA
+Lunger House S.O,500008,S.O,Non-Delivery,Hyderabad City,Hyderabad City,Andhra Pradesh,Golconda,Hyderabad,TELANGANA,040-23428340,NA,Hyderabad G.P.O. ,NA,NA
+Madhapur B.O,500081,B.O,Non-Delivery,Hyderabad City,Hyderabad City,Andhra Pradesh,Shaikpet,Hyderabad,TELANGANA,NA,Cyberabad S.O,Khairatabad H.O,NA,NA
+Mancherevula B.O,500075,B.O,Delivery,Hyderabad City,Hyderabad City,Andhra Pradesh,Rajendra Nagar,K.V.Rangareddy,TELANGANA,NA,C.B.I.T S.O,Hyderabad G.P.O. ,NA,NA
+Mangalhat S.O,500006,S.O,Non-Delivery,Hyderabad City,Hyderabad City,Andhra Pradesh,Asifnagar,Hyderabad,TELANGANA,NA,NA,Hyderabad G.P.O. ,NA,NA
+Manikonda S.O,500089,S.O,Delivery,Hyderabad City,Hyderabad City,Andhra Pradesh,NA,Hyderabad,TELANGANA,08413-233222,NA,Khairatabad H.O,NA,NA
+Manuu S.O,500032,S.O,Delivery,Hyderabad City,Hyderabad City,Andhra Pradesh,Seri Lingampally,Hyderabad,TELANGANA,NA,NA,Hyderabad G.P.O. ,NA,NA
+Moazzampura S.O,500001,S.O,Non-Delivery,Hyderabad City,Hyderabad City,Andhra Pradesh,Nampally,Hyderabad,TELANGANA,040-23428371,NA,Hyderabad G.P.O. ,NA,NA
+Moosapet B.O,500018,B.O,Non-Delivery,Hyderabad City,Hyderabad City,Andhra Pradesh,Balanagar,K.V.Rangareddy,TELANGANA,NA,Sanathnagar I E S.O,Khairatabad H.O,NA,NA
+Murad Nagar S.O (Hyderabad),500028,S.O,Non-Delivery,Hyderabad City,Hyderabad City,Andhra Pradesh,Asifnagar,Hyderabad,TELANGANA,040-23428341,NA,Khairatabad H.O,NA,NA
+Nanakramguda B.O,500008,B.O,Delivery,Hyderabad City,Hyderabad City,Andhra Pradesh,Golconda,Hyderabad,TELANGANA,NA,Golconda S.O,Hyderabad G.P.O. ,NA,NA
+Narayanguda S.O,500029,S.O,Non-Delivery,Hyderabad City,Hyderabad City,Andhra Pradesh,Himayathnagar,Hyderabad,TELANGANA,040-23428342,NA,Hyderabad G.P.O. ,NA,NA
+Narsingi B.O,500075,B.O,Delivery,Hyderabad City,Hyderabad City,Andhra Pradesh,Rajendranagar,K.V.Rangareddy,TELANGANA,NA,C.B.I.T S.O,Hyderabad G.P.O. ,NA,NA
+New Mla Quarters S.O,500063,S.O,Non-Delivery,Hyderabad City,Hyderabad City,Andhra Pradesh,Himayathnagar,Hyderabad,TELANGANA,040-23428372,NA,Hyderabad G.P.O. ,NA,NA
+Parishram Bhawan S.O,500004,S.O,Non-Delivery,Hyderabad City,Hyderabad City,Andhra Pradesh,Himayathnagar,Hyderabad,TELANGANA,040-23428328,NA,Hyderabad G.P.O. ,NA,NA
+Putlibowli S.O,500095,S.O,Delivery,Hyderabad City,Hyderabad City,Andhra Pradesh,Nampally,Hyderabad,TELANGANA,040-23463530,NA,Hyderabad G.P.O. ,NA,NA
+Raj Bhawan S.O (Hyderabad),500041,S.O,Delivery,Hyderabad City,Hyderabad City,Andhra Pradesh,Khairatabad,Hyderabad,TELANGANA,040-23428330,NA,Khairatabad H.O,NA,NA
+Ramakrishna Mutt S.O,500029,S.O,Non-Delivery,Hyderabad City,Hyderabad City,Andhra Pradesh,Himayathnagar,Hyderabad,TELANGANA,040-23463532,NA,Hyderabad G.P.O. ,NA,NA
+Sakkubai Nagar S.O,500008,S.O,Non-Delivery,Hyderabad City,Hyderabad City,Andhra Pradesh,Golconda,Hyderabad,TELANGANA,040-23463526,NA,Hyderabad G.P.O. ,NA,NA
+Sanath Nagar Colony S.O,500018,S.O,Non-Delivery,Hyderabad City,Hyderabad City,Andhra Pradesh,Ameerpet,Hyderabad,TELANGANA,040-23428379,NA,Khairatabad H.O,NA,NA
+Sanathnagar I E S.O,500018,S.O,Delivery,Hyderabad City,Hyderabad City,Andhra Pradesh,Balanagar,Hyderabad,TELANGANA,040-23428331,NA,Khairatabad H.O,NA,NA
+Sanjeev Reddy Nagar S.O,500038,S.O,Delivery,Hyderabad City,Hyderabad City,Andhra Pradesh,Ameerpet,Hyderabad,TELANGANA,040-23428332,NA,Khairatabad H.O,NA,NA
+Seetharampet S.O,500001,S.O,Non-Delivery,Hyderabad City,Hyderabad City,Andhra Pradesh,Nampally,Hyderabad,TELANGANA,040-23463695,NA,Hyderabad G.P.O. ,NA,NA
+Shantinagar S.O (Hyderabad),500028,S.O,Non-Delivery,Hyderabad City,Hyderabad City,Andhra Pradesh,Asifnagar,Hyderabad,TELANGANA,040-23428334,NA,Khairatabad H.O,NA,NA
+Somajiguda S.O,500082,S.O,Delivery,Hyderabad City,Hyderabad City,Andhra Pradesh,Nampally,Hyderabad,TELANGANA,040-23428333,NA,Khairatabad H.O,NA,NA
+Srinagar Colony S.O,500073,S.O,Delivery,Hyderabad City,Hyderabad City,Andhra Pradesh,Khairatabad,Hyderabad,TELANGANA,040-23428335,NA,Khairatabad H.O,NA,NA
+State Bank Of Hyderabad S.O,500001,S.O,Non-Delivery,Hyderabad City,Hyderabad City,Andhra Pradesh,Nampally,Hyderabad,TELANGANA,040-23428365,NA,Hyderabad G.P.O. ,NA,NA
+State Bank Of India S.O,500095,S.O,Non-Delivery,Hyderabad City,Hyderabad City,Andhra Pradesh,Nampally,Hyderabad,TELANGANA,040-23463966,NA,Hyderabad G.P.O. ,NA,NA
+Swarajyanagar S.O,500018,S.O,Non-Delivery,Hyderabad City,Hyderabad City,Andhra Pradesh,Balanagar,K.V.Rangareddy,TELANGANA,040-23428361,NA,Khairatabad H.O,NA,NA
+Toli Chowki S.O,500008,S.O,Non-Delivery,Hyderabad City,Hyderabad City,Andhra Pradesh,Golconda,Hyderabad,TELANGANA,040-23428369,NA,Hyderabad G.P.O. ,NA,NA
+Vengal Rao Nagar S.O,500038,S.O,Non-Delivery,Hyderabad City,Hyderabad City,Andhra Pradesh,Khairatabad,Hyderabad,TELANGANA,040-23428363,NA,Khairatabad H.O,NA,NA
+Vidhan Sabha S.O (Hyderabad),500004,S.O,Non-Delivery,Hyderabad City,Hyderabad City,Andhra Pradesh,Nampally,Hyderabad,TELANGANA,040-23428336,NA,Hyderabad G.P.O. ,NA,NA
+Vijay Nagar Colony S.O (Hyderabad),500057,S.O,Delivery,Hyderabad City,Hyderabad City,Andhra Pradesh,Asifnagar,Hyderabad,TELANGANA,040-23428352,NA,Khairatabad H.O,NA,NA
+Vivekananda Nagar Colony S.O,500018,S.O,Non-Delivery,Hyderabad City,Hyderabad City,Andhra Pradesh,Balanagar,Hyderabad,TELANGANA,NA,NA,Khairatabad H.O,NA,NA
+Wattinagulapalli B.O,500075,B.O,Delivery,Hyderabad City,Hyderabad City,Andhra Pradesh,Rajendra Nagar,K.V.Rangareddy,TELANGANA,NA,C.B.I.T S.O,Hyderabad G.P.O. ,NA,NA
+Yousufguda S.O,500045,S.O,Delivery,Hyderabad City,Hyderabad City,Andhra Pradesh,Khairatabad,Hyderabad,TELANGANA,040-23428338,NA,Khairatabad H.O,NA,NA
+Hyderabad G.P.O. ,500001,H.O,Delivery,Hyderabad GPO,Hyderabad City,Andhra Pradesh,Hyderabad,Hyderabad,TELANGANA,040-23463515,NA,NA,NA,NA
+A.G.College S.O,500030,S.O,Non-Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Rajendranagar,K.V.Rangareddy,TELANGANA,040-24012031,NA,Hyderabad Jubilee H.O,NA,NA
+Adibatla B.O,501510,B.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Ragannaguda X Roads S.O,Stn Kachiguda H.O,NA,NA
+Agapalli B.O,501506,B.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Ibrahimpatnam S.O (K.V.Rangareddy),Stn Kachiguda H.O,NA,NA
+Akulamailaram B.O,501509,B.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Yacharam S.O,Stn Kachiguda H.O,NA,NA
+Ambernagar B.O,500044,B.O,Non-Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Musheerabad,Hyderabad,TELANGANA,NA,Andhra Mahila Sabha S.O,Stn Kachiguda H.O,NA,NA
+Amberpet S.O,500013,S.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Amberpet,Hyderabad,TELANGANA,040-23463823,NA,Stn Kachiguda H.O,NA,NA
+Anajpur B.O,501512,B.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Ramoji Film City S.O,Stn Kachiguda H.O,NA,NA
+Andhra Mahila Sabha S.O,500044,S.O,Non-Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Musheerabad,Hyderabad,TELANGANA,040-23463817,NA,Stn Kachiguda H.O,NA,NA
+Aperl B.O,500030,B.O,Non-Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Rajendranagar,K.V.Rangareddy,TELANGANA,NA,Rajendranagar S.O (K.V.Rangareddy),Hyderabad Jubilee H.O,NA,NA
+Arutla B.O,501508,B.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Raipole S.O,Stn Kachiguda H.O,NA,NA
+Attapur B.O,500048,B.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Rajendranagar,K.V.Rangareddy,TELANGANA,NA,Hyderguda S.O,Hyderabad Jubilee H.O,NA,NA
+Badangpet B.O,500058,B.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Hyderabad,Hyderabad,TELANGANA,NA,Kanchanbagh S.O,Hyderabad Jubilee H.O,NA,NA
+Bahadurpura S.O,500064,S.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Hyderabad,Hyderabad,TELANGANA,040-23463824,NA,Hyderabad Jubilee H.O,NA,NA
+Balapur B.O,500005,B.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Saroornagar,K.V.Rangareddy,TELANGANA,NA,Keshogiri S.O,Hyderabad Jubilee H.O,NA,NA
+Bandaraviryal B.O,501505,B.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Hayatnagar S.O,Stn Kachiguda H.O,NA,NA
+Barkatpura S.O,500027,S.O,Non-Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Himayathnagar,Hyderabad,TELANGANA,040-23463825,NA,Stn Kachiguda H.O,NA,NA
+Batasingaram B.O,501512,B.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Ramoji Film City S.O,Stn Kachiguda H.O,NA,NA
+Begumbazar S.O,500012,S.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Nampally,Hyderabad,TELANGANA,040-23463813,NA,Hyderabad Jubilee H.O,NA,NA
+Boduppal S.O,500092,S.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Ghatkesar,Hyderabad,TELANGANA,NA,NA,Stn Kachiguda H.O,NA,NA
+Chaithanyapuri Colony S.O,500060,S.O,Non-Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Saroornagar,K.V.Rangareddy,TELANGANA,040-23463692,NA,Stn Kachiguda H.O,NA,NA
+Cherlapatel Guda B.O,501506,B.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,NA,K.V.Rangareddy,TELANGANA,NA,Ibrahimpatnam S.O (K.V.Rangareddy),Stn Kachiguda H.O,NA,NA
+Chinnagolkonda B.O,501218,B.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Shamshabad,K.V.Rangareddy,TELANGANA,NA,Shamshabad S.O (K.V.Rangareddy),Hyderabad Jubilee H.O,NA,NA
+Chintapatla B.O,501509,B.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Yacharam S.O,Stn Kachiguda H.O,NA,NA
+Chippalapalli B.O,501359,B.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Mankhal S.O,Hyderabad Jubilee H.O,NA,NA
+Chowderpalli B.O,501509,B.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Yacharam S.O,Stn Kachiguda H.O,NA,NA
+Crp Camp S.O (Hyderabad),500005,S.O,Non-Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Bandlaguda,Hyderabad,TELANGANA,040-23463830,NA,Hyderabad Jubilee H.O,NA,NA
+Dabbedguda B.O,501359,B.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Mankhal S.O,Hyderabad Jubilee H.O,NA,NA
+Dandumailaram B.O,501508,B.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Raipole S.O,Stn Kachiguda H.O,NA,NA
+Darushifa S.O,500024,S.O,Non-Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Charminar,Hyderabad,TELANGANA,040-23463831,NA,Hyderabad Jubilee H.O,NA,NA
+Dilsukhnagar Colony S.O,500060,S.O,Non-Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Saroornagar,K.V.Rangareddy,TELANGANA,040-23463832,NA,Stn Kachiguda H.O,NA,NA
+Don Bosco Nagar S.O,500086,S.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Rajendranagar,Hyderabad,TELANGANA,040-24192122,NA,Hyderabad Jubilee H.O,NA,NA
+Eleminedu B.O,501506,B.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Ibrahimpatnam S.O (K.V.Rangareddy),Stn Kachiguda H.O,NA,NA
+Falaknuma S.O,500053,S.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Charminar,Hyderabad,TELANGANA,040-24380001,NA,Hyderabad Jubilee H.O,NA,NA
+Fatehdarwaza S.O,500065,S.O,Non-Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Charminar,Hyderabad,TELANGANA,040-23463834,NA,Hyderabad Jubilee H.O,NA,NA
+Gaganpahad B.O,500052,B.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Rajendranagar,K.V.Rangareddy,TELANGANA,NA,Svpnpa S.O,Hyderabad Jubilee H.O,NA,NA
+Gayatri Nagar S.O,500097,S.O,Non-Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,saroornagar,Hyderabad,TELANGANA,040-24091145,NA,Stn Kachiguda H.O,NA,NA
+Gollapalli Kalan B.O,501218,B.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Shamshabad S.O (K.V.Rangareddy),Hyderabad Jubilee H.O,NA,NA
+Gowrelli B.O,501505,B.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Hayatnagar S.O,Stn Kachiguda H.O,NA,NA
+Gsi(Sr) Bandlaguda S.O,500068,S.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Hayathnagar,Hyderabad,TELANGANA,040-23463835,NA,Stn Kachiguda H.O,NA,NA
+Gudur B.O,501359,B.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Mankhal S.O,Hyderabad Jubilee H.O,NA,NA
+Gummadavalli B.O,501506,B.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Ibrahimpatnam S.O (K.V.Rangareddy),Stn Kachiguda H.O,NA,NA
+Gungal B.O,501506,B.O,Non-Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Ibrahimpatnam S.O (K.V.Rangareddy),Stn Kachiguda H.O,NA,NA
+Hasannagar B.O,500052,B.O,Non-Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Rajendranagar,K.V.Rangareddy,TELANGANA,NA,Svpnpa S.O,Hyderabad Jubilee H.O,NA,NA
+Hayatnagar S.O,501505,S.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Hayathnagar,K.V.Rangareddy,TELANGANA,040-23463814,NA,Stn Kachiguda H.O,NA,NA
+High Court S.O (Hyderabad),500066,S.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Charminar,Hyderabad,TELANGANA,040-23463836,NA,Hyderabad Jubilee H.O,NA,NA
+Hindustan Cables Ltd S.O,500051,S.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Uppal,Hyderabad,TELANGANA,040-23463837,NA,Stn Kachiguda H.O,NA,NA
+Huda Residential Complex S.O,500035,S.O,Non-Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Saroornagar,K.V.Rangareddy,TELANGANA,040-24053161,NA,Stn Kachiguda H.O,NA,NA
+Hussainialam S.O,500064,S.O,Non-Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Bahadurpura,Hyderabad,TELANGANA,040-24568933,NA,Hyderabad Jubilee H.O,NA,NA
+Hyderabad Jubilee H.O,500002,H.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Charminar,Hyderabad,TELANGANA,040-23463822,NA,NA,NA,NA
+Hyderabad Public School S.O,500013,S.O,Non-Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Amberpet,Hyderabad,TELANGANA,040-23463840,NA,Stn Kachiguda H.O,NA,NA
+Hyderguda S.O,500048,S.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Rajendranagar,Hyderabad,TELANGANA,040-24001505,NA,Hyderabad Jubilee H.O,NA,NA
+I.E.Nacharam S.O,500076,S.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Uppal,Hyderabad,TELANGANA,040-23463841,NA,Stn Kachiguda H.O,NA,NA
+Ibrahimpatnam S.O (K.V.Rangareddy),501506,S.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Ibrahimpatnam,K.V.Rangareddy,TELANGANA,08414-222022,NA,Stn Kachiguda H.O,NA,NA
+Jaitwaram B.O,501359,B.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Mankhal S.O,Hyderabad Jubilee H.O,NA,NA
+Japal B.O,501508,B.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Raipole S.O,Stn Kachiguda H.O,NA,NA
+Jillellaguda B.O,500079,B.O,Non-Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Saroornagar,K.V.Rangareddy,TELANGANA,NA,Vaishalinagar S.O,Stn Kachiguda H.O,NA,NA
+Kanchanbagh S.O,500058,S.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Bandlaguda,Hyderabad,TELANGANA,040-24344839,NA,Hyderabad Jubilee H.O,NA,NA
+Kandukur B.O,501359,B.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Mankhal S.O,Hyderabad Jubilee H.O,NA,NA
+Kappapahad B.O,501506,B.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Ibrahimpatnam S.O (K.V.Rangareddy),Stn Kachiguda H.O,NA,NA
+Karmanghat B.O,500079,B.O,Non-Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Saroornagar,K.V.Rangareddy,TELANGANA,NA,Vaishalinagar S.O,Stn Kachiguda H.O,NA,NA
+Kattedan Ie S.O,500077,S.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Rajendranagar,Hyderabad,TELANGANA,040-23463844,NA,Hyderabad Jubilee H.O,NA,NA
+Kavadpalli B.O,501505,B.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Hayatnagar S.O,Stn Kachiguda H.O,NA,NA
+Keshogiri S.O,500005,S.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Bandlaguda,Hyderabad,TELANGANA,040-23463843,NA,Hyderabad Jubilee H.O,NA,NA
+Kishanbagh B.O,500064,B.O,Non-Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Bahadurpura,Hyderabad,TELANGANA,NA,Bahadurpura S.O,Hyderabad Jubilee H.O,NA,NA
+Kismathpur B.O,500030,B.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Hyderabad,Hyderabad,TELANGANA,NA,Rajendranagar S.O (K.V.Rangareddy),Hyderabad Jubilee H.O,NA,NA
+Koheda B.O,501511,B.O,Non-Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Sanghinagar S.O,Stn Kachiguda H.O,NA,NA
+Kongarakalan B.O,501510,B.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Ragannaguda X Roads S.O,Stn Kachiguda H.O,NA,NA
+Kongaraviryla B.O,501510,B.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Maheswaram,K.V.Rangareddy,TELANGANA,NA,Ragannaguda X Roads S.O,Stn Kachiguda H.O,NA,NA
+Kothapalli B.O,501509,B.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Yacharam S.O,Stn Kachiguda H.O,NA,NA
+Kotwalguda B.O,501218,B.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Shamshabad S.O (K.V.Rangareddy),Hyderabad Jubilee H.O,NA,NA
+Kuntloor B.O,501505,B.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,NA,K.V.Rangareddy,TELANGANA,NA,Hayatnagar S.O,Stn Kachiguda H.O,NA,NA
+Kurmidda B.O,501509,B.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Yacharam S.O,Stn Kachiguda H.O,NA,NA
+L B Nagar S.O,500074,S.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Hyderabad,Hyderabad,TELANGANA,040-23463845,NA,Stn Kachiguda H.O,NA,NA
+Lemur B.O,501359,B.O,Non-Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Mankhal S.O,Hyderabad Jubilee H.O,NA,NA
+Lingampalli B.O,501508,B.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Raipole S.O,Stn Kachiguda H.O,NA,NA
+Madhapur B.O,501506,B.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Ibrahimpatnam S.O (K.V.Rangareddy),Stn Kachiguda H.O,NA,NA
+Maisaram B.O,501359,B.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Mankhal S.O,Hyderabad Jubilee H.O,NA,NA
+Malakpet Colony S.O,500036,S.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Amberpet,Hyderabad,TELANGANA,040-23463808,NA,Stn Kachiguda H.O,NA,NA
+Mallapur B.O,500076,B.O,Non-Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Uppal,K.V.Rangareddy,TELANGANA,NA,I.E.Nacharam S.O,Stn Kachiguda H.O,NA,NA
+Mamidipalli B.O,500005,B.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Hyderabad,Hyderabad,TELANGANA,NA,Keshogiri S.O,Hyderabad Jubilee H.O,NA,NA
+Manchal B.O,501508,B.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Raipole S.O,Stn Kachiguda H.O,NA,NA
+Mangalpalli B.O,501510,B.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Ragannaguda X Roads S.O,Stn Kachiguda H.O,NA,NA
+Mankhal S.O,501359,S.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,040-23463808,NA,Hyderabad Jubilee H.O,NA,NA
+Mansoorabad B.O,500068,B.O,Non-Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Hayathnagar,K.V.Rangareddy,TELANGANA,NA,Gsi(Sr) Bandlaguda S.O,Stn Kachiguda H.O,NA,NA
+Manthangowd Gowrelli B.O,501509,B.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Yacharam S.O,Stn Kachiguda H.O,NA,NA
+Medipalli B.O,501509,B.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Yacharam S.O,Stn Kachiguda H.O,NA,NA
+Medipalli S.O,500098,S.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Ghatkesar,Hyderabad,TELANGANA,NA,NA,Stn Kachiguda H.O,NA,NA
+Meerkhanpet B.O,501509,B.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Yacharam S.O,Stn Kachiguda H.O,NA,NA
+Meerpet S.O,500097,S.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Saroornagar,Hyderabad,TELANGANA,NA,NA,Stn Kachiguda H.O,NA,NA
+Moghalpura S.O,500002,S.O,Non-Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Charminar,Hyderabad,TELANGANA,040-23463847,NA,Hyderabad Jubilee H.O,NA,NA
+Mondigowrelli B.O,501509,B.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Yacharam S.O,Stn Kachiguda H.O,NA,NA
+Nadergul B.O,501510,B.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Ragannaguda X Roads S.O,Stn Kachiguda H.O,NA,NA
+Nagaram B.O,501218,B.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Shamshabad S.O (K.V.Rangareddy),Hyderabad Jubilee H.O,NA,NA
+Nallakunta S.O,500044,S.O,Non-Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Musheerabad,Hyderabad,TELANGANA,040-23463848,NA,Stn Kachiguda H.O,NA,NA
+Nallavalli B.O,501509,B.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Yacharam S.O,Stn Kachiguda H.O,NA,NA
+Nanajipur B.O,501218,B.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Shamshabad S.O (K.V.Rangareddy),Hyderabad Jubilee H.O,NA,NA
+Nandiwanaparthy B.O,501509,B.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Yacharam S.O,Stn Kachiguda H.O,NA,NA
+Narkhoda B.O,501218,B.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Shamshabad S.O (K.V.Rangareddy),Hyderabad Jubilee H.O,NA,NA
+Nazdiksingaram B.O,501509,B.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Yacharam S.O,Stn Kachiguda H.O,NA,NA
+Nedunur B.O,501359,B.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Mankhal S.O,Hyderabad Jubilee H.O,NA,NA
+New Nallakunta S.O,500044,S.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Musheerabad,Hyderabad,TELANGANA,040-23463849,NA,Stn Kachiguda H.O,NA,NA
+Nimboliadda S.O,500027,S.O,Non-Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Nampally,Hyderabad,TELANGANA,040-23463850,NA,Stn Kachiguda H.O,NA,NA
+Old Malakpet S.O,500036,S.O,Non-Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Saidabad,Hyderabad,TELANGANA,040-23463854,NA,Stn Kachiguda H.O,NA,NA
+Osmannagar S.O (Hyderabad),500036,S.O,Non-Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Saidabad,Hyderabad,TELANGANA,040-23463853,NA,Stn Kachiguda H.O,NA,NA
+P & T Colony S.O (K.V.Rangareddy),500060,S.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Saroornagar,Hyderabad,TELANGANA,040-23463855,NA,Stn Kachiguda H.O,NA,NA
+Pahadishareef B.O,500005,B.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Saroornagar,K.V.Rangareddy,TELANGANA,NA,Keshogiri S.O,Hyderabad Jubilee H.O,NA,NA
+Pasmamala B.O,501505,B.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Hayatnagar S.O,Stn Kachiguda H.O,NA,NA
+Pedda Amberpet B.O,501505,B.O,Non-Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Hayatnagar S.O,Stn Kachiguda H.O,NA,NA
+Peerzadiguda B.O,500039,B.O,Non-Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Hyderabad,Hyderabad,TELANGANA,NA,Uppal S.O (K.V.Rangareddy),Stn Kachiguda H.O,NA,NA
+Pocharam B.O,501506,B.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Ibrahimpatnam S.O (K.V.Rangareddy),Stn Kachiguda H.O,NA,NA
+Polkampalli B.O,501508,B.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Raipole S.O,Stn Kachiguda H.O,NA,NA
+Pulmamidi B.O,501359,B.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Mankhal S.O,Hyderabad Jubilee H.O,NA,NA
+Qutubullapur B.O,501505,B.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Hayatnagar S.O,Stn Kachiguda H.O,NA,NA
+R.C.Imarat S.O,500069,S.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Bandlaguda,Hyderabad,TELANGANA,040-23463860,NA,Hyderabad Jubilee H.O,NA,NA
+Rachaloor B.O,501359,B.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Mankhal S.O,Hyderabad Jubilee H.O,NA,NA
+Ragannaguda X Roads S.O,501510,S.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Hayathnagar,K.V.Rangareddy,TELANGANA,08415-233872,NA,Stn Kachiguda H.O,NA,NA
+Raipole S.O,501508,S.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,08414-254622,NA,Stn Kachiguda H.O,NA,NA
+Rajendranagar S.O (K.V.Rangareddy),500030,S.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Rajendranagar,Hyderabad,TELANGANA,040-24015336,NA,Hyderabad Jubilee H.O,NA,NA
+Ramakrishanapuram S.O,500035,S.O,Non-Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Saroornagar,K.V.Rangareddy,TELANGANA,040-23463859,NA,Stn Kachiguda H.O,NA,NA
+Ramdaspalli B.O,501510,B.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Ragannaguda X Roads S.O,Stn Kachiguda H.O,NA,NA
+Ramoji Film City S.O,501512,S.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Hayathnagar,K.V.Rangareddy,TELANGANA,08415-242386,NA,Stn Kachiguda H.O,NA,NA
+Rangapur B.O,501508,B.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Raipole S.O,Stn Kachiguda H.O,NA,NA
+Rangareddy Dt Courts S.O,500074,S.O,Non-Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Saroornagar,K.V.Rangareddy,TELANGANA,040-23463857,NA,Stn Kachiguda H.O,NA,NA
+Sahifa S.O,500024,S.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Saidabad,Hyderabad,TELANGANA,040-23463862,NA,Hyderabad Jubilee H.O,NA,NA
+Saidabad Colony S.O,500059,S.O,Non-Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Saidabad,Hyderabad,TELANGANA,040-23463863,NA,Hyderabad Jubilee H.O,NA,NA
+Saidabad S.O (Hyderabad),500059,S.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Hyderabad,Hyderabad,TELANGANA,040-23463963,NA,Hyderabad Jubilee H.O,NA,NA
+Sanghinagar S.O,501511,S.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Hayathnagar,K.V.Rangareddy,TELANGANA,08415-243022,NA,Stn Kachiguda H.O,NA,NA
+Santoshnagar Colony S.O,500059,S.O,Non-Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Saidabad,Hyderabad,TELANGANA,040-24534122,NA,Hyderabad Jubilee H.O,NA,NA
+Sarada Nagar S.O,500070,S.O,Non-Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Hayathnagar,K.V.Rangareddy,TELANGANA,NA,NA,Stn Kachiguda H.O,NA,NA
+Saroornagar S.O,500035,S.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Hyderabad,Hyderabad,TELANGANA,040-23463965,NA,Stn Kachiguda H.O,NA,NA
+Seminary B.O,500013,B.O,Non-Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Amberpet,Hyderabad,TELANGANA,NA,Hyderabad Public School S.O,Stn Kachiguda H.O,NA,NA
+Seriguda B.O,501510,B.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Ibrahimpatnam,K.V.Rangareddy,TELANGANA,NA,Ragannaguda X Roads S.O,Stn Kachiguda H.O,NA,NA
+Shahalibanda S.O,500065,S.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Charminar,Hyderabad,TELANGANA,040-24383173,NA,Hyderabad Jubilee H.O,NA,NA
+Shamshabad S.O (K.V.Rangareddy),501218,S.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,08413-222022,NA,Hyderabad Jubilee H.O,NA,NA
+Shivarampalli B.O,500052,B.O,Non-Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Rajendranagar,K.V.Rangareddy,TELANGANA,NA,Svpnpa S.O,Hyderabad Jubilee H.O,NA,NA
+Snehapuri Colony S.O,500076,S.O,Non-Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Uppal,K.V.Rangareddy,TELANGANA,040-23463865,NA,Stn Kachiguda H.O,NA,NA
+Srinivasapuram S.O (Hyderabad),500013,S.O,Non-Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Amberpet,Hyderabad,TELANGANA,040-23463866,NA,Stn Kachiguda H.O,NA,NA
+Sripuram Colony B.O,500036,B.O,Non-Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Amberpet,Hyderabad,TELANGANA,NA,Malakpet Colony S.O,Stn Kachiguda H.O,NA,NA
+Stn Kachiguda H.O,500027,H.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Himayathnagar,Hyderabad,TELANGANA,040-23463811,NA,NA,NA,NA
+Survey Of India S.O,500039,S.O,Non-Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Uppal,K.V.Rangareddy,TELANGANA,040-23463868,NA,Stn Kachiguda H.O,NA,NA
+Svpnpa S.O,500052,S.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Rajendranagar,Hyderabad,TELANGANA,040-23463869,NA,Hyderabad Jubilee H.O,NA,NA
+Tadbun B.O,500064,B.O,Non-Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Bahadurpura,Hyderabad,TELANGANA,NA,Bahadurpura S.O,Hyderabad Jubilee H.O,NA,NA
+Tadlapalliguda B.O,501508,B.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Raipole S.O,Stn Kachiguda H.O,NA,NA
+Taramatipeta B.O,501505,B.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Hayatnagar S.O,Stn Kachiguda H.O,NA,NA
+Tatiparthy B.O,501509,B.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Yacharam S.O,Stn Kachiguda H.O,NA,NA
+Thimmapur B.O,501506,B.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Ibrahimpatnam S.O (K.V.Rangareddy),Stn Kachiguda H.O,NA,NA
+Toolkalan B.O,501509,B.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Yacharam S.O,Stn Kachiguda H.O,NA,NA
+Toolkhurd B.O,501509,B.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Yacharam S.O,Stn Kachiguda H.O,NA,NA
+Torrur B.O,501511,B.O,Non-Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Sanghinagar S.O,Stn Kachiguda H.O,NA,NA
+Tummalur B.O,501359,B.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Mankhal S.O,Hyderabad Jubilee H.O,NA,NA
+Turkayamzal B.O,501510,B.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Ragannaguda X Roads S.O,Stn Kachiguda H.O,NA,NA
+Uppal S.O (K.V.Rangareddy),500039,S.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Uppal,K.V.Rangareddy,TELANGANA,040-23463871,NA,Stn Kachiguda H.O,NA,NA
+Uppuguda S.O,500053,S.O,Non-Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Charminar,Hyderabad,TELANGANA,040-23463872,NA,Hyderabad Jubilee H.O,NA,NA
+Vaidehinagar S.O,500070,S.O,Non-Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Hayathnagar,K.V.Rangareddy,TELANGANA,040-24241322,NA,Stn Kachiguda H.O,NA,NA
+Vaishalinagar S.O,500079,S.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Saroornagar,Hyderabad,TELANGANA,040-24074832,NA,Stn Kachiguda H.O,NA,NA
+Vanastalipuram S.O,500070,S.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Hayathnagar,Hyderabad,TELANGANA,040-23463875,NA,Stn Kachiguda H.O,NA,NA
+Vidyanagar S.O (Hyderabad),500044,S.O,Non-Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Musheerabad,Hyderabad,TELANGANA,040-23463877,NA,Stn Kachiguda H.O,NA,NA
+Vinjapur B.O,501510,B.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Hayathnagar,K.V.Rangareddy,TELANGANA,NA,Ragannaguda X Roads S.O,Stn Kachiguda H.O,NA,NA
+Yacharam S.O,501509,S.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,08414-243222,NA,Stn Kachiguda H.O,NA,NA
+Yakutpura S.O,500023,S.O,Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Charminar,Hyderabad,TELANGANA,040-23463879,NA,Hyderabad Jubilee H.O,NA,NA
+Zindatelismath B.O,500013,B.O,Non-Delivery,Hyderabad South East,Hyderabad City,Andhra Pradesh,Amberpet,Hyderabad,TELANGANA,NA,Amberpet S.O,Stn Kachiguda H.O,NA,NA
+Adikcherla B.O,501142,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Peddimal S.O,Vikarabad H.O,NA,NA
+Administrative Buildings S.O,500007,S.O,Non-Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Secunderabad,Hyderabad,TELANGANA,040-23463733,NA,Secunderabad H.O,NA,NA
+Agnoor B.O,501144,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Yalal S.O,Vikarabad H.O,NA,NA
+Ainapur B.O,501502,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Bompalli S.O,Vikarabad H.O,NA,NA
+Airforce Academy S.O,500043,S.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Tirumalagiri,Hyderabad,TELANGANA,08518-254049,NA,Trimulgherry H.O,NA,NA
+Aliabad B.O,500101,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Hyd,Hyderabad,TELANGANA,NA,Shamirpet S.O,Trimulgherry H.O,NA,NA
+Allampalli S.O.,501102,S.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Vikarabad,Hyderabad,TELANGANA,NA,NA,Vikarabad H.O,NA,NA
+Allapur B.O,501141,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Tandur S.O,Vikarabad H.O,NA,NA
+Alur B.O,501503,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Chevella S.O,Vikarabad H.O,NA,NA
+Alwal S.O,500010,S.O,Non-Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Tirumalagiri,Hyderabad,TELANGANA,040-23463787,NA,Trimulgherry H.O,NA,NA
+Amdapur B.O,501504,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Moinabad S.O,Vikarabad H.O,NA,NA
+Amradikalan B.O,501202,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Mominpet S.O,Vikarabad H.O,NA,NA
+Anandbagh S.O,500047,S.O,Non-Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Tirumalagiri,Hyderabad,TELANGANA,040-23463758,NA,Trimulgherry H.O,NA,NA
+Anantagiripally B.O,501102,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Allampalli S.O.,Vikarabad H.O,NA,NA
+Anantaram B.O,500101,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Tirumalagiri,Hyderabad,TELANGANA,NA,Shamirpet S.O,Trimulgherry H.O,NA,NA
+Ankireddipalli B.O,501301,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Hyd,Hyderabad,TELANGANA,NA,Ghatkesar S.O,Secunderabad H.O,NA,NA
+Ankushapur B.O,501301,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Hyd,Hyderabad,TELANGANA,NA,Ghatkesar S.O,Secunderabad H.O,NA,NA
+Antaram B.O,501503,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Chevella S.O,Vikarabad H.O,NA,NA
+Antharam B.O,501141,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Tandur S.O,Vikarabad H.O,NA,NA
+Aoc Records S.O,500015,S.O,Non-Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Tirumalagiri,Hyderabad,TELANGANA,040-23463756,NA,Trimulgherry H.O,NA,NA
+Aphb Colony Moulali S.O,500040,S.O,Non-Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Secunderabad,Hyderabad,TELANGANA,040-23463721,NA,Secunderabad H.O,NA,NA
+Arkatala B.O,501111,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Nawabpet,K.V.Rangareddy,TELANGANA,NA,Nawabpet S.O (K.V.Rangareddy),Vikarabad H.O,NA,NA
+Ashoknagar S.O (Hyderabad),500020,S.O,Non-Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Musheerabad,Hyderabad,TELANGANA,NA,NA,Secunderabad H.O,NA,NA
+Athveli B.O,501401,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Medchal S.O,Trimulgherry H.O,NA,NA
+Atveli B.O,501102,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Allampalli S.O.,Vikarabad H.O,NA,NA
+Bachupally B.O,500090,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Qutubullapur,K.V.Rangareddy,TELANGANA,NA,Nizampet  S.O,Trimulgherry H.O,NA,NA
+Badampalli B.O,501502,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Bompalli S.O,Vikarabad H.O,NA,NA
+Bahadurpalli B.O,500043,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Tirumalagiri,Hyderabad,TELANGANA,NA,Airforce Academy S.O,Trimulgherry H.O,NA,NA
+Balanagar Township S.O,500037,S.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,Hyderabad,TELANGANA,040-23463302,NA,Trimulgherry H.O,NA,NA
+Bandelkacherla B.O,501502,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Bompalli S.O,Vikarabad H.O,NA,NA
+Bantwaram B.O,501106,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,R,K.V.Rangareddy,TELANGANA,NA,Kotpalli S.O,Vikarabad H.O,NA,NA
+Barwad B.O,501106,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Kotpalli S.O,Vikarabad H.O,NA,NA
+Basheerabad S.O,501143,S.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Hyd,K.V.Rangareddy,TELANGANA,08416-252098,NA,Vikarabad H.O,NA,NA
+Begumpet Policelines S.O,500003,S.O,Non-Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Secunderabad,Hyderabad,TELANGANA,040-23463722,NA,Secunderabad H.O,NA,NA
+Begumpet S.O,500016,S.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Secunderabad,Hyderabad,TELANGANA,040-23463723,NA,Secunderabad H.O,NA,NA
+Bennur B.O,501144,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rr.,K.V.Rangareddy,TELANGANA,NA,Yalal S.O,Vikarabad H.O,NA,NA
+Bhulkapur B.O,501203,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Shankarpalli S.O,Vikarabad H.O,NA,NA
+BITS B.O,500078,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Tirumalagiri,Hyderabad,TELANGANA,NA,Nisa Hakimpet S.O,Trimulgherry H.O,NA,NA
+Bogaram B.O,501301,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Hyd,Hyderabad,TELANGANA,NA,Ghatkesar S.O,Secunderabad H.O,NA,NA
+Bolarum Bazar S.O,500010,S.O,Non-Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Tirumalagiri,Hyderabad,TELANGANA,040-23463755,NA,Trimulgherry H.O,NA,NA
+Bolarum S.O,500010,S.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Tirumalagiri,Hyderabad,TELANGANA,040-23463760,NA,Trimulgherry H.O,NA,NA
+Bompalli S.O,501502,S.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,08416-255691,NA,Vikarabad H.O,NA,NA
+Bomraspet B.O,500078,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Nisa Hakimpet S.O,Trimulgherry H.O,NA,NA
+Bowenpally S.O,500011,S.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Tirumalagiri,Hyderabad,TELANGANA,040-23463759,NA,Trimulgherry H.O,NA,NA
+Bowrampet B.O,500043,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Airforce Academy S.O,Trimulgherry H.O,NA,NA
+Buchampalli B.O,501202,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Mominpet S.O,Vikarabad H.O,NA,NA
+CCI Tandur S.O,501158,S.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Tandur,K.V.Rangareddy,TELANGANA,NA,NA,Vikarabad H.O,NA,NA
+Chanchalpet B.O,501111,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Nawabpet S.O (K.V.Rangareddy),Vikarabad H.O,NA,NA
+Chandanagar S.O,500050,S.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Tirumalagiri,Hyderabad,TELANGANA,040-23463761,NA,Trimulgherry H.O,NA,NA
+Chandanvelly B.O,501503,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Chevella S.O,Vikarabad H.O,NA,NA
+Chengole B.O,501141,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Tandur S.O,Vikarabad H.O,NA,NA
+Chengomal B.O,501501,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Purgi S.O,Vikarabad H.O,NA,NA
+Chennaram B.O,501144,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Yalal S.O,Vikarabad H.O,NA,NA
+Chenvelli B.O,501503,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Chevella S.O,Vikarabad H.O,NA,NA
+Cherial B.O,501301,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Hyd,Hyderabad,TELANGANA,NA,Ghatkesar S.O,Secunderabad H.O,NA,NA
+Cherlapalli B.O,501301,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Hyd,Hyderabad,TELANGANA,NA,Ghatkesar S.O,Secunderabad H.O,NA,NA
+Chevella S.O,501503,S.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,08417-244222,NA,Vikarabad H.O,NA,NA
+Chilkur B.O,501504,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Moinabad S.O,Vikarabad H.O,NA,NA
+Chimaldari B.O,501111,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Nawabpet S.O (K.V.Rangareddy),Vikarabad H.O,NA,NA
+Chinna Mangalaram B.O,501504,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Moinabad S.O,Vikarabad H.O,NA,NA
+Chinnagottiga B.O,501143,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Basheerabad S.O,Vikarabad H.O,NA,NA
+Chittigadda B.O,501111,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Nawabpet S.O (K.V.Rangareddy),Vikarabad H.O,NA,NA
+Chityal B.O,501501,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Purgi S.O,Vikarabad H.O,NA,NA
+CIE Balangar S.O,500037,S.O,Non-Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Tirumalagiri,Hyderabad,TELANGANA,040-23463762,NA,Trimulgherry H.O,NA,NA
+CMR College (Kandlakoya) B.O,501401,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Medchal,K.V.Rangareddy,TELANGANA,NA,Medchal S.O,Trimulgherry H.O,NA,NA
+CRPF B.O,500078,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Tirumalagiri,Hyderabad,TELANGANA,NA,Nisa Hakimpet S.O,Trimulgherry H.O,NA,NA
+Dabirpur B.O,501401,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Hyd,Hyderabad,TELANGANA,NA,Medchal S.O,Trimulgherry H.O,NA,NA
+Damarched B.O,501143,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Basheerabad S.O,Vikarabad H.O,NA,NA
+Damargidda B.O,501503,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Chevella S.O,Vikarabad H.O,NA,NA
+Devarampalli B.O,501111,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Nawabpet S.O (K.V.Rangareddy),Vikarabad H.O,NA,NA
+Devaryamjal B.O,500078,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Shamirpet,K.V.Rangareddy,TELANGANA,NA,Nisa Hakimpet S.O,Trimulgherry H.O,NA,NA
+Devnoor B.O,501144,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Yalal S.O,Vikarabad H.O,NA,NA
+Devuniyerravalli B.O,501503,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Chevella S.O,Vikarabad H.O,NA,NA
+Dhannaram B.O,501102,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Allampalli S.O.,Vikarabad H.O,NA,NA
+Dharur S.O,501121,S.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,08416-236222,NA,Vikarabad H.O,NA,NA
+Dhobhipet B.O,501203,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Shankarpalli S.O,Vikarabad H.O,NA,NA
+Dindigul B.O,500043,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Airforce Academy S.O,Trimulgherry H.O,NA,NA
+Dirsampalli B.O,501502,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Bompalli S.O,Vikarabad H.O,NA,NA
+Doma B.O,501502,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Bompalli S.O,Vikarabad H.O,NA,NA
+Doolapalli B.O,500100,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Komplly S.O,Trimulgherry H.O,NA,NA
+Dornal B.O,501121,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Dharur S.O,Vikarabad H.O,NA,NA
+Dr As Rao Nagar S.O,500062,S.O,Non-Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Secunderabad,Hyderabad,TELANGANA,040-23463788,NA,Secunderabad H.O,NA,NA
+Ecil S.O,500062,S.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Secunderabad,Hyderabad,TELANGANA,040-23463725,NA,Secunderabad H.O,NA,NA
+Edulabad B.O,501301,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Ghatkesar,K.V.Rangareddy,TELANGANA,NA,Ghatkesar S.O,Secunderabad H.O,NA,NA
+Ekmamidi B.O,501102,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Allampalli S.O.,Vikarabad H.O,NA,NA
+EME Records S.O,500015,S.O,Non-Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Tirumalagiri,Hyderabad,TELANGANA,040-23463764,NA,Trimulgherry H.O,NA,NA
+Enkatala B.O,501202,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Mominpet S.O,Vikarabad H.O,NA,NA
+Gagillapur B.O,500043,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Airforce Academy S.O,Trimulgherry H.O,NA,NA
+Gajularamaram B.O,500055,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Hyd,Hyderabad,TELANGANA,NA,IDA Jeedimetla S.O,Trimulgherry H.O,NA,NA
+Gandhinagar S.O (Hyderabad),500080,S.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Secunderabad,Hyderabad,TELANGANA,040-23463726,NA,Secunderabad H.O,NA,NA
+Gazipur B.O,501142,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Peddimal S.O,Vikarabad H.O,NA,NA
+Gharsinghapur B.O,501501,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Purgi S.O,Vikarabad H.O,NA,NA
+Ghatepalli B.O,501121,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,NA,K.V.Rangareddy,TELANGANA,NA,Dharur S.O,Vikarabad H.O,NA,NA
+Ghatkesar S.O,501301,S.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Hyd,K.V.Rangareddy,TELANGANA,08415-222222,NA,Secunderabad H.O,NA,NA
+Gingurthi B.O,501141,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Tandur S.O,Vikarabad H.O,NA,NA
+Girgitpalle B.O,501102,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Vikarabad,K.V.Rangareddy,TELANGANA,NA,Allampalli S.O.,Vikarabad H.O,NA,NA
+Girmapur B.O,501401,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Hyd,Hyderabad,TELANGANA,NA,Medchal S.O,Trimulgherry H.O,NA,NA
+Godamguda B.O,501102,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Allampalli S.O.,Vikarabad H.O,NA,NA
+Golconda Chowrastha S.O,500020,S.O,Non-Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Musheerabad,Hyderabad,TELANGANA,NA,NA,Secunderabad H.O,NA,NA
+Gottimukkala B.O,501102,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Allampalli S.O.,Vikarabad H.O,NA,NA
+Gowdavalli B.O,501401,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Hyd,Hyderabad,TELANGANA,NA,Medchal S.O,Trimulgherry H.O,NA,NA
+Gundal B.O,501503,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Chevella S.O,Vikarabad H.O,NA,NA
+Gunj B.O,501141,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Tandur,K.V.Rangareddy,TELANGANA,NA,Tandur S.O,Vikarabad H.O,NA,NA
+Haiglines S.O,500010,S.O,Non-Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Tirumalagiri,Hyderabad,TELANGANA,040-23463755,NA,Trimulgherry H.O,NA,NA
+Hakimpet S.O,500014,S.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Tirumalagiri,Hyderabad,TELANGANA,040-23463768,NA,Trimulgherry H.O,NA,NA
+Hal S.O (Hyderabad),500042,S.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Tirumalagiri,Hyderabad,TELANGANA,040-23463765,NA,Trimulgherry H.O,NA,NA
+Hanumanpet B.O,500047,B.O,Non-Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Tirumalagiri,Hyderabad,TELANGANA,NA,Malkajgiri S.O,Trimulgherry H.O,NA,NA
+Haridasapalli B.O,501121,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,NA,K.V.Rangareddy,TELANGANA,NA,Dharur S.O,Vikarabad H.O,NA,NA
+Himmatnagar S.O,500025,S.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Secunderabad,Hyderabad,TELANGANA,040-23463728,NA,Secunderabad H.O,NA,NA
+HMT Township S.O,500054,S.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Tirumalagiri,Hyderabad,TELANGANA,040-23463766,NA,Trimulgherry H.O,NA,NA
+IDA Jeedimetla S.O,500055,S.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Tirumalagiri,Hyderabad,TELANGANA,040-23463769,NA,Trimulgherry H.O,NA,NA
+Ie Moulali S.O,500040,S.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Secunderabad,Hyderabad,TELANGANA,040-23463731,NA,Secunderabad H.O,NA,NA
+IICT S.O,500007,S.O,Non-Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Secunderabad,Hyderabad,TELANGANA,040-23463732,NA,Secunderabad H.O,NA,NA
+Indur B.O,501142,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Peddimal S.O,Vikarabad H.O,NA,NA
+Jaggamguda B.O,500101,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Tirumalagiri,Hyderabad,TELANGANA,NA,Shamirpet S.O,Trimulgherry H.O,NA,NA
+Jai Jawan Colony S.O,500062,S.O,Non-Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Secunderabad,Hyderabad,TELANGANA,NA,NA,Secunderabad H.O,NA,NA
+Jaidupalli B.O,501102,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Allampalli S.O.,Vikarabad H.O,NA,NA
+Jama I Osmania S.O,500007,S.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Secunderabad,Hyderabad,TELANGANA,040-23463733,NA,Secunderabad H.O,NA,NA
+Jangaon B.O,501142,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Peddimal S.O,Vikarabad H.O,NA,NA
+Jawahar Nagar B.O,500087,B.O,Non-Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Tirumalagiri,Hyderabad,TELANGANA,NA,JJ Nagar Colony S.O,Trimulgherry H.O,NA,NA
+Jeevangi B.O,501143,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Basheerabad S.O,Vikarabad H.O,NA,NA
+JJ Nagar Colony S.O,500087,S.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Tirumalagiri,Hyderabad,TELANGANA,040-23463771,NA,Trimulgherry H.O,NA,NA
+Jntu Kukat Pally S.O,500085,S.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Tirumalagiri,Hyderabad,TELANGANA,040-23428516,NA,Trimulgherry H.O,NA,NA
+Juntapalli B.O,501144,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Yalal S.O,Vikarabad H.O,NA,NA
+Kadcherla B.O,501102,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Allampalli S.O.,Vikarabad H.O,NA,NA
+Kalkhoda B.O,501106,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Kotpalli S.O,Vikarabad H.O,NA,NA
+Kanakamamidi B.O,501504,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Moinabad S.O,Vikarabad H.O,NA,NA
+Kandanhalli B.O,501141,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Tandur S.O,Vikarabad H.O,NA,NA
+Kandlapalli B.O,501503,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Chevella S.O,Vikarabad H.O,NA,NA
+Kandwada B.O,501503,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Chevella S.O,Vikarabad H.O,NA,NA
+Kankal B.O,501501,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Purgi S.O,Vikarabad H.O,NA,NA
+Kanmeta B.O,501503,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Chevella S.O,Vikarabad H.O,NA,NA
+Karankot B.O,501158,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,CCI Tandur S.O,Vikarabad H.O,NA,NA
+Karvelli B.O,501121,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,NA,K.V.Rangareddy,TELANGANA,NA,Dharur S.O,Vikarabad H.O,NA,NA
+Kasimpur B.O,501143,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Basheerabad S.O,Vikarabad H.O,NA,NA
+Katchavanisingaram B.O,500088,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Secunderabad,Hyderabad,TELANGANA,NA,Samskruthi S.O,Secunderabad H.O,NA,NA
+Keesara B.O,501301,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Hyd,Hyderabad,TELANGANA,NA,Ghatkesar S.O,Secunderabad H.O,NA,NA
+Keesaragutta B.O,501301,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Hyd,Hyderabad,TELANGANA,NA,Ghatkesar S.O,Secunderabad H.O,NA,NA
+Kesaram B.O,501202,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Mominpet S.O,Vikarabad H.O,NA,NA
+Kethireddipalli B.O,501504,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Moinabad S.O,Vikarabad H.O,NA,NA
+Kingsway S.O,500003,S.O,Non-Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Secunderabad,Hyderabad,TELANGANA,040-23463735,NA,Secunderabad H.O,NA,NA
+Kistapur B.O,501501,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Purgi S.O,Vikarabad H.O,NA,NA
+Kodalkal B.O,501203,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Shankarpalli S.O,Vikarabad H.O,NA,NA
+Kokat B.O,501141,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Tandur S.O,Vikarabad H.O,NA,NA
+Kolkonda B.O,501202,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Mominpet S.O,Vikarabad H.O,NA,NA
+Kolthur B.O,500101,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Hyd,Hyderabad,TELANGANA,NA,Shamirpet S.O,Trimulgherry H.O,NA,NA
+Komplly S.O,500100,S.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Quthbullapur Mandal,Hyderabad,TELANGANA,NA,NA,Trimulgherry H.O,NA,NA
+Korremal B.O,500088,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Hyd,Hyderabad,TELANGANA,NA,Samskruthi S.O,Secunderabad H.O,NA,NA
+Kothagdi B.O,501102,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Allampalli S.O.,Vikarabad H.O,NA,NA
+Kothapalli B.O,501106,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Kotpalli S.O,Vikarabad H.O,NA,NA
+Kothapalli B.O,501203,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Shankarpalli S.O,Vikarabad H.O,NA,NA
+Kothlapur B.O,501202,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Mominpet S.O,Vikarabad H.O,NA,NA
+Kotmarpalli B.O,501202,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,NA,K.V.Rangareddy,TELANGANA,NA,Mominpet S.O,Vikarabad H.O,NA,NA
+Kotpalli S.O,501106,S.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,08416-255691,NA,Vikarabad H.O,NA,NA
+Kowkoor B.O,500010,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Malkagiri Manda,Hyderabad,TELANGANA,NA,Bolarum S.O,Trimulgherry H.O,NA,NA
+Kowkunta B.O,501503,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Chevella S.O,Vikarabad H.O,NA,NA
+KPHB Colony S.O,500085,S.O,Non-Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Tirumalagiri,Hyderabad,TELANGANA,040-23463730,NA,Trimulgherry H.O,NA,NA
+Kudmoor B.O,501501,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Purgi S.O,Vikarabad H.O,NA,NA
+Kudvandapur B.O,501501,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Purgi S.O,Vikarabad H.O,NA,NA
+Kukatpally S.O,500072,S.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Tirumalagiri,Hyderabad,TELANGANA,040-23463772,NA,Trimulgherry H.O,NA,NA
+Kukonda B.O,501121,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,NA,K.V.Rangareddy,TELANGANA,NA,Dharur S.O,Vikarabad H.O,NA,NA
+Kurviched B.O,501143,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Basheerabad S.O,Vikarabad H.O,NA,NA
+Kushaiguda B.O,500062,B.O,Non-Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Secunderabad,Hyderabad,TELANGANA,NA,Jai Jawan Colony S.O,Secunderabad H.O,NA,NA
+Kutbullapur B.O,500055,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Hyd,Hyderabad,TELANGANA,NA,IDA Jeedimetla S.O,Trimulgherry H.O,NA,NA
+Kyasaram B.O,500101,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Hyd,Hyderabad,TELANGANA,NA,Shamirpet S.O,Trimulgherry H.O,NA,NA
+Lalgadi Malakpet B.O,500101,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Hyd,Hyderabad,TELANGANA,NA,Shamirpet S.O,Trimulgherry H.O,NA,NA
+Lallaguda S.O,500017,S.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Secunderabad,Hyderabad,TELANGANA,040-23463789,NA,Secunderabad H.O,NA,NA
+Lallapet S.O,500017,S.O,Non-Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Secunderabad,Hyderabad,TELANGANA,040-23463738,NA,Secunderabad H.O,NA,NA
+Madanapalli B.O,501102,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Allampalli S.O.,Vikarabad H.O,NA,NA
+Madireddipalli B.O,501111,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Nawabpet S.O (K.V.Rangareddy),Vikarabad H.O,NA,NA
+Maharajpet B.O,501203,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Shankarpalli S.O,Vikarabad H.O,NA,NA
+Mailwar B.O,501143,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Basheerabad S.O,Vikarabad H.O,NA,NA
+Malasomaram B.O,501106,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Kotpalli S.O,Vikarabad H.O,NA,NA
+Malkajgiri S.O,500047,S.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,Hyderabad,TELANGANA,040-23463773,NA,Trimulgherry H.O,NA,NA
+Malkapur B.O,501158,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,CCI Tandur S.O,Vikarabad H.O,NA,NA
+Malkapur B.O,501503,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Chevella S.O,Vikarabad H.O,NA,NA
+Malwardevrampalli B.O,501102,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Allampalli S.O.,Vikarabad H.O,NA,NA
+Manchanpalli B.O,501501,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Purgi S.O,Vikarabad H.O,NA,NA
+Manneguda B.O,501102,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Allampalli S.O.,Vikarabad H.O,NA,NA
+Manovikasnagar S.O,500009,S.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Tirumalagiri,Hyderabad,TELANGANA,040-23463774,NA,Trimulgherry H.O,NA,NA
+Manthangod B.O,501143,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Basheerabad S.O,Vikarabad H.O,NA,NA
+Manthatti B.O,501141,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Tandur S.O,Vikarabad H.O,NA,NA
+Marpallikalan B.O,501202,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Mominpet S.O,Vikarabad H.O,NA,NA
+Mathrusri Nagar S.O,500049,S.O,Non-Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Serilingampally,K.V.Rangareddy,TELANGANA,NA,NA,Trimulgherry H.O,NA,NA
+Medchal S.O,501401,S.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,08418-220022,NA,Trimulgherry H.O,NA,NA
+Medipalli B.O,501203,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Shankarpalli S.O,Vikarabad H.O,NA,NA
+Medpalli B.O,501501,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Purgi S.O,Vikarabad H.O,NA,NA
+Mekavanampalli B.O,501202,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Mominpet S.O,Vikarabad H.O,NA,NA
+MG Road S.O,500003,S.O,Non-Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Secunderabad,Hyderabad,TELANGANA,040-23463739,NA,Secunderabad H.O,NA,NA
+Mittabaspalle B.O,501158,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,CCI Tandur S.O,Vikarabad H.O,NA,NA
+Mittakorud B.O,501501,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Purgi S.O,Vikarabad H.O,NA,NA
+Miyapur S.O,500049,S.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Tirumalagiri,Hyderabad,TELANGANA,040-23463775,NA,Trimulgherry H.O,NA,NA
+Moinabad S.O,501504,S.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,08417-252042,NA,Vikarabad H.O,NA,NA
+Mokila B.O,501203,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Shankarpalli S.O,Vikarabad H.O,NA,NA
+Mombapur B.O,501142,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Peddimal S.O,Vikarabad H.O,NA,NA
+Mominkalan B.O,501121,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,NA,K.V.Rangareddy,TELANGANA,NA,Dharur S.O,Vikarabad H.O,NA,NA
+Mominpet S.O,501202,S.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,08416-255691,NA,Vikarabad H.O,NA,NA
+Morangpalli B.O,501202,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Mominpet S.O,Vikarabad H.O,NA,NA
+Mothukapalli B.O,501106,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Kotpalli S.O,Vikarabad H.O,NA,NA
+Moulali S.O,500040,S.O,Non-Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Secunderabad,Hyderabad,TELANGANA,040-23463740,NA,Secunderabad H.O,NA,NA
+Mubarakpur B.O,501203,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Shankarpalli S.O,Vikarabad H.O,NA,NA
+Mudchintanapalli B.O,500101,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Hyd,Hyderabad,TELANGANA,NA,Shamirpet S.O,Trimulgherry H.O,NA,NA
+Mudgul Chittempalle B.O,501102,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Allampalli S.O.,Vikarabad H.O,NA,NA
+Mudimial B.O,501503,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Chevella S.O,Vikarabad H.O,NA,NA
+Mujahidpur B.O,501502,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Bompalli S.O,Vikarabad H.O,NA,NA
+Munnur Somaram B.O,501102,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Allampalli S.O.,Vikarabad H.O,NA,NA
+Musheerabad (Delivery) S.O,500020,S.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Hyderabad,Hyderabad,TELANGANA,040-23463741,NA,Secunderabad H.O,NA,NA
+Musheerabad (ND) S.O,500020,S.O,Non-Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Musheerabad,Hyderabad,TELANGANA,NA,NA,Secunderabad H.O,NA,NA
+Nagaram S.O (K.V.Rangareddy),500083,S.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,Hyderabad,TELANGANA,040-23463835,NA,Secunderabad H.O,NA,NA
+Nagasamunder B.O,501106,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Kotpalli S.O,Vikarabad H.O,NA,NA
+Nagawaram B.O,501121,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,NA,K.V.Rangareddy,TELANGANA,NA,Dharur S.O,Vikarabad H.O,NA,NA
+Nagulapalli B.O,501142,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Peddimal S.O,Vikarabad H.O,NA,NA
+Narayanpur B.O,501141,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Tandur S.O,Vikarabad H.O,NA,NA
+Naskal B.O,501501,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Purgi S.O,Vikarabad H.O,NA,NA
+Navalga B.O,501143,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Basheerabad S.O,Vikarabad H.O,NA,NA
+Nawabpet S.O (K.V.Rangareddy),501111,S.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,08416-237222,NA,Vikarabad H.O,NA,NA
+Nehrunagar S.O (Hyderabad),500026,S.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Secunderabad,Hyderabad,TELANGANA,040-23463744,NA,Secunderabad H.O,NA,NA
+Neredmet S.O,500056,S.O,Non-Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Tirumalagiri,Hyderabad,TELANGANA,040-23463776,NA,Trimulgherry H.O,NA,NA
+Ngri S.O,500007,S.O,Non-Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Secunderabad,Hyderabad,TELANGANA,040-23463745,NA,Secunderabad H.O,NA,NA
+Nisa Hakimpet S.O,500078,S.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Tirumalagiri,Hyderabad,TELANGANA,040-23463777,NA,Trimulgherry H.O,NA,NA
+Nizampet  S.O,500090,S.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Qutubullapur,Hyderabad,TELANGANA,NA,NA,Trimulgherry H.O,NA,NA
+Nizampet Medpalli B.O,501501,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Purgi S.O,Vikarabad H.O,NA,NA
+Nutankal B.O,501401,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Hyd,Hyderabad,TELANGANA,NA,Medchal S.O,Trimulgherry H.O,NA,NA
+Nyalata B.O,501503,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Chevella S.O,Vikarabad H.O,NA,NA
+Orella B.O,501503,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Chevella S.O,Vikarabad H.O,NA,NA
+Padmaraonagar S.O,500025,S.O,Non-Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Secunderabad,Hyderabad,TELANGANA,040-23463746,NA,Secunderabad H.O,NA,NA
+Pagdyal B.O,501144,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Yalal S.O,Vikarabad H.O,NA,NA
+Pamena B.O,501503,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Chevella S.O,Vikarabad H.O,NA,NA
+Panchalingal B.O,501202,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Mominpet S.O,Vikarabad H.O,NA,NA
+Parveda B.O,501203,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Shankarpalli S.O,Vikarabad H.O,NA,NA
+Patloor B.O,501202,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Mominpet S.O,Vikarabad H.O,NA,NA
+Peda Umenthyal B.O,501501,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Purgi S.O,Vikarabad H.O,NA,NA
+Pedda Mangalaram B.O,501504,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Moinabad S.O,Vikarabad H.O,NA,NA
+Peddalaxmapur B.O,500101,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Tirumalagiri,Hyderabad,TELANGANA,NA,Shamirpet S.O,Trimulgherry H.O,NA,NA
+Peddimal S.O,501142,S.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,08416-255691,NA,Vikarabad H.O,NA,NA
+Peta Madaram B.O,501501,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Purgi S.O,Vikarabad H.O,NA,NA
+Phulmaddi B.O,501102,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Allampalli S.O.,Vikarabad H.O,NA,NA
+Picket S.O,500009,S.O,Non-Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Secunderabad,Hyderabad,TELANGANA,040-23463749,NA,Secunderabad H.O,NA,NA
+Pochampally B.O,500100,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Komplly S.O,Trimulgherry H.O,NA,NA
+Ponnal B.O,500078,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Nisa Hakimpet S.O,Trimulgherry H.O,NA,NA
+Pragatinagar B.O,500090,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Hyd,Hyderabad,TELANGANA,NA,Nizampet  S.O,Trimulgherry H.O,NA,NA
+Prakashamnagar S.O,500016,S.O,Non-Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Secunderabad,Hyderabad,TELANGANA,040-23463750,NA,Secunderabad H.O,78.4468,17.4672
+Pratapsingaram B.O,500088,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Hyd,Hyderabad,TELANGANA,NA,Samskruthi S.O,Secunderabad H.O,NA,NA
+Proddatur B.O,501203,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Shankarpalli S.O,Vikarabad H.O,NA,NA
+Pudur B.O,501102,B.O,Non-Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,NA,K.V.Rangareddy,TELANGANA,NA,Allampalli S.O.,Vikarabad H.O,NA,NA
+Pudur B.O,501401,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Medchal S.O,Trimulgherry H.O,NA,NA
+Pulapalli B.O,501102,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Allampalli S.O.,Vikarabad H.O,NA,NA
+Pulmamidi B.O,501111,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Nawabpet S.O (K.V.Rangareddy),Vikarabad H.O,NA,NA
+Pulusmamidi B.O,501102,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Allampalli S.O.,Vikarabad H.O,NA,NA
+Purgi S.O,501501,S.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,08412-222222,NA,Vikarabad H.O,NA,NA
+Rail Nilayam S.O,500025,S.O,Non-Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Secunderabad,Hyderabad,TELANGANA,040-23463748,NA,Secunderabad H.O,NA,NA
+Rajbolaram B.O,501401,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Hyd,Hyderabad,TELANGANA,NA,Medchal S.O,Trimulgherry H.O,NA,NA
+Rajeevagruhakalpa B.O,500088,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Secunderabad,Hyderabad,TELANGANA,NA,Samskruthi S.O,Secunderabad H.O,NA,NA
+Ramakrishna Puram S.O,500056,S.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Tirumalagiri,Hyderabad,TELANGANA,040-23463779,NA,Secunderabad H.O,NA,NA
+Ramanathgudpally B.O,501102,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Allampalli S.O.,Vikarabad H.O,NA,NA
+Ramapur B.O,501106,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Kotpalli S.O,Vikarabad H.O,NA,NA
+Rampallidiara B.O,501301,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Hyd,Hyderabad,TELANGANA,NA,Ghatkesar S.O,Secunderabad H.O,NA,NA
+Rangareddynagar S.O,500037,S.O,Non-Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Tirumalagiri,Hyderabad,TELANGANA,040-23463302,NA,Trimulgherry H.O,NA,NA
+Rasnam B.O,501121,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,NA,K.V.Rangareddy,TELANGANA,NA,Dharur S.O,Vikarabad H.O,NA,NA
+Ravalkol B.O,501401,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Hyd,Hyderabad,TELANGANA,NA,Medchal S.O,Trimulgherry H.O,NA,NA
+Ravulapalli B.O,501106,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Kotpalli S.O,Vikarabad H.O,NA,NA
+Regad Ghanapur B.O,501503,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Chevella S.O,Vikarabad H.O,NA,NA
+Regadi Doswada B.O,501501,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Shabad,K.V.Rangareddy,TELANGANA,NA,Purgi S.O,Vikarabad H.O,NA,NA
+Regondi B.O,501142,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Peddimal S.O,Vikarabad H.O,NA,NA
+Riapol B.O,501501,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Purgi S.O,Vikarabad H.O,NA,NA
+Rompalli B.O,501301,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Hyd,Hyderabad,TELANGANA,NA,Ghatkesar S.O,Secunderabad H.O,NA,NA
+Rompalli B.O,501106,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Kotpalli S.O,Vikarabad H.O,NA,NA
+Rupkhanpet B.O,501501,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Purgi S.O,Vikarabad H.O,NA,NA
+Sainikpuri S.O,500094,S.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Tirumalagiri,Hyderabad,TELANGANA,040-23463780,NA,Trimulgherry H.O,NA,NA
+Salbathapur B.O,501106,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Kotpalli S.O,Vikarabad H.O,NA,NA
+Samskruthi S.O,500088,S.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Secunderabad,Hyderabad,TELANGANA,040-27196222,NA,Secunderabad H.O,NA,NA
+Sangamkalan B.O,501158,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,CCI Tandur S.O,Vikarabad H.O,NA,NA
+Secunderabad H.O,500003,H.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Hyderabad,Hyderabad,TELANGANA,040-23463713,NA,NA,NA,NA
+Shamirpet S.O,500101,S.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Shamirpet Mandal,Hyderabad,TELANGANA,NA,NA,Trimulgherry H.O,NA,NA
+Shankarpalli S.O,501203,S.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,08541-222222,NA,Vikarabad H.O,NA,NA
+Siddaloor B.O,501102,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Allampalli S.O.,Vikarabad H.O,NA,NA
+Singapur B.O,501203,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Shankarpalli S.O,Vikarabad H.O,NA,NA
+Sirpura B.O,501202,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Mominpet S.O,Vikarabad H.O,NA,NA
+Sitaphalmandi S.O,500061,S.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Secunderabad,Hyderabad,TELANGANA,040-23463751,NA,Secunderabad H.O,NA,NA
+Sivareddipalli B.O,501502,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Bompalli S.O,Vikarabad H.O,NA,NA
+Sivareddypet B.O,501102,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Allampalli S.O.,Vikarabad H.O,NA,NA
+Somangurthi B.O,501501,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Purgi S.O,Vikarabad H.O,NA,NA
+Srirangavaram B.O,500043,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Airforce Academy S.O,Trimulgherry H.O,NA,NA
+Suchitra Junction S.O,500067,S.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,NA,Hyderabad,TELANGANA,040-23463740,NA,Trimulgherry H.O,NA,NA
+Sultanpur B.O,501501,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Purgi S.O,Vikarabad H.O,NA,NA
+Surangal B.O,501504,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Moinabad S.O,Vikarabad H.O,NA,NA
+Suraram B.O,500055,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Tirumalagiri,Hyderabad,TELANGANA,NA,IDA Jeedimetla S.O,Trimulgherry H.O,NA,NA
+Syedpalli B.O,501501,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Purgi S.O,Vikarabad H.O,NA,NA
+Tandur S.O,501141,S.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,08411-272073,NA,Vikarabad H.O,NA,NA
+Tangadpalli B.O,501503,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Chevella S.O,Vikarabad H.O,NA,NA
+Tangutoor B.O,501203,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Shankarpalli S.O,Vikarabad H.O,NA,NA
+Tarigopula B.O,501121,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,NA,K.V.Rangareddy,TELANGANA,NA,Dharur S.O,Vikarabad H.O,NA,NA
+Tarnaka S.O,500007,S.O,Non-Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Secunderabad,Hyderabad,TELANGANA,040-23463752,NA,Secunderabad H.O,NA,NA
+Tekulapalli B.O,501202,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Mominpet S.O,Vikarabad H.O,NA,NA
+Thattepalli B.O,501142,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Peddimal S.O,Vikarabad H.O,NA,NA
+Thimmaipalli B.O,501301,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Hyd,Hyderabad,TELANGANA,NA,Ghatkesar S.O,Secunderabad H.O,NA,NA
+Thumkunta B.O,500078,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Hyd,Hyderabad,TELANGANA,NA,Nisa Hakimpet S.O,Trimulgherry H.O,NA,NA
+Thummalapalli B.O,501202,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Mominpet S.O,Vikarabad H.O,NA,NA
+Timmaipalli B.O,501144,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Yalal S.O,Vikarabad H.O,NA,NA
+Trimulgherry H.O,500015,H.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,Hyderabad,TELANGANA,040-23463755,NA,NA,NA,NA
+Turkapalliyadaram B.O,500101,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Hyd,Hyderabad,TELANGANA,NA,Shamirpet S.O,Trimulgherry H.O,NA,NA
+Turmamidi B.O,501142,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Peddimal S.O,Vikarabad H.O,NA,NA
+Uddemarri B.O,500078,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Shameerpet,K.V.Rangareddy,TELANGANA,NA,Nisa Hakimpet S.O,Trimulgherry H.O,NA,NA
+Velchal B.O,501202,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Mominpet S.O,Vikarabad H.O,NA,NA
+Venkatadri B.O,500088,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Ghatkesar,K.V.Rangareddy,TELANGANA,NA,Samskruthi S.O,Secunderabad H.O,NA,NA
+Venkatapur B.O,501504,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Moinabad S.O,Vikarabad H.O,NA,NA
+Vikarabad H.O,501101,H.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Hyd,Hyderabad,TELANGANA,08416-252098,NA,NA,NA,NA
+Vikasnagar S.O (Hyderabad),500093,S.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Tirumalagiri,Hyderabad,TELANGANA,040-23463781,NA,Trimulgherry H.O,NA,NA
+Vivekanandanagar Colony S.O,500072,S.O,Non-Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Balanagar,Hyderabad,TELANGANA,040-23463782,NA,Trimulgherry H.O,NA,NA
+Wootpalli B.O,501502,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Bompalli S.O,Vikarabad H.O,NA,NA
+Yadgarpalli B.O,501301,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Hyd,Hyderabad,TELANGANA,NA,Ghatkesar S.O,Secunderabad H.O,NA,NA
+Yakmai B.O,501143,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Basheerabad S.O,Vikarabad H.O,NA,NA
+Yalal S.O,501144,S.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,08416-255691,NA,Vikarabad H.O,NA,NA
+Yellakonda B.O,501203,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Shankarpalli S.O,Vikarabad H.O,NA,NA
+Yelvawthy B.O,501203,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Shankarpalli S.O,Vikarabad H.O,NA,NA
+Yenkepalle B.O,501106,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Kotpalli S.O,Vikarabad H.O,NA,NA
+Yennaram B.O,501106,B.O,Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Rangareddy,K.V.Rangareddy,TELANGANA,NA,Kotpalli S.O,Vikarabad H.O,NA,NA
+Zamistanpur S.O,500020,S.O,Non-Delivery,Secunderabad,Hyderabad City,Andhra Pradesh,Musheerabad,Hyderabad,TELANGANA,040-23463754,NA,Secunderabad H.O,NA,NA
